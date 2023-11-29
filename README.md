@@ -1,5 +1,5 @@
 # drum_kit
 * **Hey😛! you can continue your Drum Practice 😉 Here 👍  👇👇:**
 * ```sh
-  https://github.com/shahvivek2004
+  https://shahvivek2004.github.io/drum_kit/
   ```
